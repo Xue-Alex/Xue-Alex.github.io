@@ -4,9 +4,8 @@ I'm currently a second year Computer Science student at the University of Waterl
 
 ### 💻 I'm currently working on....
 - Backend Software Engineer Intern at [Georgian Partners](https://georgianpartners.com/ "Georgian Partners")
-- Part time Software consultant for [Common Crawl](https://commoncrawl.org/ "Common Crawl")
+- Part time Software Consultant for [Common Crawl](https://commoncrawl.org/ "Common Crawl")
 - Past two time Software Engineer Intern at [Adeptmind](https://adeptmind.ai/ "Adeptmind")
-📈
 
 ### 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/alexxue/ "LinkedIn") | [Email](mailto:a7xue@uwaterloo.ca "Email")
