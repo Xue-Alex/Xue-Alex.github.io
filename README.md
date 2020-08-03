@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Alex Xue.
 
-I'm currently a second year Computer Science student at the University of Waterloo!
+I'm a Computer Science student at the University of Waterloo!
 
 ### 💻 I'm currently working on...
 - Backend Software Engineer Intern at [Georgian Partners](https://georgianpartners.com/ "Georgian Partners")
