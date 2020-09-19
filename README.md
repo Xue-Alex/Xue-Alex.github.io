@@ -3,7 +3,7 @@
 I'm a Computer Science student at the University of Waterloo!
 
 ### 💻 I'm currently working on...
-- - Part time Software Engineer Intern for [Common Crawl](https://commoncrawl.org/ "Common Crawl")
+- Part time Software Engineer Intern for [Common Crawl](https://commoncrawl.org/ "Common Crawl")
 
 
 ### 🌱 Previously worked on...
