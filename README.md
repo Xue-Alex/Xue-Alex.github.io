@@ -2,11 +2,11 @@
 
 I'm a Computer Science student at the University of Waterloo!
 
-### 💻 I'm currently working on...
+### 💻 I'm currently working as...
 - Part time Software Engineer Intern for [Common Crawl](https://commoncrawl.org/ "Common Crawl"). Check out a recent [blog post](https://commoncrawl.org/2020/10/interactive-webgraph-statistics-notebook-released/) of mine!
 
 
-### 🌱 Previously worked on...
+### 🌱 Previously worked as...
 - Backend Software Engineer Intern at [Georgian Partners](https://georgianpartners.com/ "Georgian Partners")
 - Two time Software Engineer Intern at [Adeptmind](https://adeptmind.ai/ "Adeptmind")
 
