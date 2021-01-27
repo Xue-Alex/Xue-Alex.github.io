@@ -13,6 +13,9 @@ I'm a Computer Science student at the University of Waterloo!
 ### 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/alexxue/ "LinkedIn") | [Email](mailto:a7xue@uwaterloo.ca "Email")
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!--
 
 
