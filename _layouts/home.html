@@ -15,20 +15,13 @@
           {% endif %}
 
           <div class="break"></div>
+          
+          {% include snap.html %}
+          {% include riot.html %}
+          {% include commoncrawl.html %}
+          {% include georgian.html %}
+          {% include adeptmind.html %}
 
-          {% for post in paginator.posts %}
-              
-              {% if post.position == "left" %}
-              {% include content-left.html %}
-              {% endif %}
-
-              {% if post.position == "right" %}
-              {% include content-right.html %}
-              {% endif %}
-             
-          {% endfor %}
-
-          {% include pagination.html %}
 
           </div>
       </div>
