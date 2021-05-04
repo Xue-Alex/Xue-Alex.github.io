@@ -15,9 +15,9 @@ layout: default
 
   <div class="columnr">
 
-    <h2> Snap Inc. </h2>
+    <h2> <a href="https://www.snap.com/en-GB">Snap Inc.</a>   </h2>
     <h4>  Sept 2021 -  Dec 2021 </h4>
-     Incoming SWE Intern at Snap Research
+     Incoming SWE Intern at <a href="https://research.snap.com/">Snap Research</a>
 
   </div>
 
@@ -32,7 +32,7 @@ layout: default
 
   <div class="columnr">
 
-    <h2> Riot Games </h2>
+    <h2> <a href="https://www.riotgames.com/en">Riot Games</a>  </h2>
     <h4>  May 2021 -  Sept 2021 </h4>
     SWE Intern
 
@@ -49,7 +49,7 @@ layout: default
 
   <div class="columnr">
 
-    <h2> Common Crawl </h2>
+    <h2> <a href="https://commoncrawl.org/">Common Crawl</a> </h2>
     <h4>  Sept 2020 - Jan 2021 </h4>
     Software Consultant
 
@@ -66,7 +66,7 @@ layout: default
 
   <div class="columnr">
 
-    <h2> Georgian Partners </h2>
+    <h2> <a href="https://georgian.io/">Georgian</a> </h2>
     <h4>  June 2020 - Aug 2020 </h4>
     Backend SWE Intern
 
@@ -83,7 +83,7 @@ layout: default
 
   <div class="columnr">
 
-    <h2> Adeptmind </h2>
+    <h2><a href="https://adeptmind.ai/">Adeptmind</a></h2>
     <h4>  June 2018 - Aug 2018, June 2019 - Aug 2019</h4>
     SWE Intern
   </div>
