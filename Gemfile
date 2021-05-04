@@ -1,7 +1,6 @@
 # frozen_string_literal: true
-gem "kramdown-parser-gfm"
-source "https://rubygems.org"
-gemspec
-gem "jekyll"
-gem "jekyll-paginate"
 
+source 'https://rubygems.org'
+gem "github-pages", group: :jekyll_plugins
+gem 'font-awesome-sass'
+gemspec
