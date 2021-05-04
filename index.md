@@ -77,7 +77,7 @@ layout: default
 <div class="row">
 
   <div class="columnl">
-    <img src="./assets/img/commoncrawl.png"
+    <img src="./assets/img/adeptmind.png"
     class="thumbnail"/>
   </div>
 
